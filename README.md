@@ -14,3 +14,4 @@
 :sleeping:
 :blush:
 :confused:
+[CLI commands](docs/cli.md)
