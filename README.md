@@ -8,3 +8,6 @@ Welcome to my COMP1238 course notes.
 
 ## Course Notes
 - [COMP1238 Weekly Notes](comp1238.md)
+
+GBC email: ashish.dhami@georgebrown.ca
+Your personal repo URL:https://github.com/Ashish2660/github1238
